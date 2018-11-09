@@ -1,0 +1,43 @@
+{
+  "project_info": {
+    "project_number": "69352458207",
+    "firebase_url": "https://hmdesigns-c4759.firebaseio.com",
+    "project_id": "hmdesigns-c4759",
+    "storage_bucket": "hmdesigns-c4759.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69352458207:android:585cb4cb2dd8a00f",
+        "android_client_info": {
+          "package_name": "com.example.mustafakhaled.hm_project.door"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "69352458207-eeuu8k0m4vif3hop15rh7d3146hj0vnm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDde2t1LsySy05K85UXgwcgKTU_8xdS8xo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      },
+      "admob_app_id": "ca-app-pub-1091222834826645~8670569732"
+    }
+  ],
+  "configuration_version": "1"
+}

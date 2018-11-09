@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Doors</string>
+    <string name="btn">But</string>
+    <string name="welcome_sent">Welcome To Our Application</string>
+    <string name="app_id_admob">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="app_id_admob_firebase">ca-app-pub-1091222834826645~8670569732</string>
+    <string name="check_your_connection">Check your internet connection.</string>
+    <!--Navigation Drawer List Items-->
+    <string-array name="navigation_items">
+        <item>Users number</item>
+        <item>Rate App</item>
+        <item >Share App</item>
+        <item >More Apss</item>
+        <item >Contacts Us</item>
+    </string-array>
+    <!-- End Navigation Drawer List Items-->
+    <string name="fragment1_text">Menu</string>
+    <string name="fragment2_text">Favorite</string>
+    <string name="fragment3_download">Download</string>
+
+    <string name="cancel">Cancel</string>
+    <string name="retry">Retry</string>
+    <string name="setting">Setting</string>
+    <string name="deny_message">You denied this permission and it is important to enable download files.</string>
+    <string name= "never_message">You denied this permission. Go to Settings</string>
+    <string name="downloading_hint">Downloading ... </string>
+    <string name="copy_to_clipboard">Link copied</string>
+    <string name="deny_permission">Denying this permission would affect the behaviour in download section.</string>
+    <string name="press_once_again">Press once again to exit</string>
+
+
+</resources>

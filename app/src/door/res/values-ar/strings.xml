@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">الابواب</string>
+    <string name="btn">زرار</string>
+    <string name="welcome_sent">أهلا بكم في تطبيقنا</string>
+    <string name="app_id_admob">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="check_your_connection">تحقق من اتصالك بالانترنت.</string>
+
+    <string-array name="navigation_items">
+        <item>عدد المستخدمين</item>
+        <item>تقييم التطبيق</item>
+        <item >مشاركة التطبيق</item>
+        <item >مزيد من التطبيقات</item>
+        <item >تواصل معنا</item>
+    </string-array>
+
+    <string name="fragment1_text">الرئيسية</string>
+    <string name="fragment2_text">المفضلة</string>
+    <string name="fragment3_download">تنزيلات</string>
+
+    <string name="cancel">إلغاء</string>
+    <string name="retry">إعادة المحاولة</string>
+    <string name="setting">الإعدادات</string>
+    <string name="deny_message">لقد رفضت هذا الإذن و هو ضرورى لرؤية التنزيلات.</string>
+    <string name= "never_message">لقد رفضت نهائيا، اذهب للإعدادات لتمكينه.</string>
+    <string name="downloading_hint">جاري التحميل ...</string>
+    <string name="copy_to_clipboard">تم نسخ الرابط</string>
+    <string name="deny_permission">رفض هذا الإذن سيؤثر على اداء االتطبيق في التنزيلات.</string>
+    <string name="press_once_again">اضغط مرة اخرى للخروج</string>
+
+
+</resources>
